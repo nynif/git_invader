@@ -1,8 +1,8 @@
 # 👾 Git invader 👾
 Git invader est un petit projet qui permet de créer un easter egg dans le dashboard de github.  
-Le dashboard de github est une data visualisation des commits réalisée sur l'année.  
+Le dashboard de github est une data visualisation des commits réalisés sur l'année.  
 
-![dashboard github](https://github.com/nynif/git_invader/blob/main/img/dashboard.jpg?raw=true) 
+![dashboard github](https://github.com/nynif/git_invader/blob/main/img/dashboard_2.jpg?raw=true) 
   
 En changeant la date des commits on peut "hacker" ce dashboard.
 En ligne de commande voici la fonction pour changer la date d'un commit 
@@ -35,8 +35,4 @@ git init
 python script.py
 git remote
 git push 
-```
-
-
-![dashboard github](https://github.com/nynif/git_invader/blob/main/img/dashboard_2.jpg?raw=true) 
-  
+```  

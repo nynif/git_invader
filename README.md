@@ -36,3 +36,7 @@ python script.py
 git remote
 git push 
 ```
+
+
+![dashboard github](https://github.com/nynif/git_invader/blob/main/img/dashboard_2.jpg?raw=true) 
+  
